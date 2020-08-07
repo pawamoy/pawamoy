@@ -1,16 +1,32 @@
 ### Hi there 👋
 
-<!--
-**pawamoy/pawamoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Timothée Mazzucotelli,
+I learned computer science at a french university,
+and now have a few years of experience in development,
+particularly with Python.
 
-Here are some ideas to get you started:
+I really enjoy sharing my code
+and contributing to other projects!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can see [a showcase of my projects on my website][showcase]
+(sorry for the heavy GIFs and SVGs :sweat_smile:),
+as well as [the list of my blog posts][blog].
+
+Here are some [auto-updated][sw-post]
+stats about my published Python projects:
+
+Total downloads: 895,703<br>
+Downloads/month: 60,243<br>
+Stars count: 810
+
+It ain't much (and it doesn't mean much either),
+but I'm nonetheless proud to see
+that what I created is used by others :heart_eyes:
+
+You can see more about what I'm working on
+on my [support page][support]!
+
+[sw-post]: https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/
+[showcase]: https://pawamoy.github.io/showcase/
+[blog]: https://pawamoy.github.io/
+[support]: https://github.com/sponsors/pawamoy/
