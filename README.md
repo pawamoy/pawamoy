@@ -15,9 +15,9 @@ as well as [the list of my blog posts][blog].
 Here are some [auto-updated][sw-post]
 stats about my published Python projects:
 
-Total downloads: 895,703<br>
-Downloads/month: 60,243<br>
-Stars count: 810
+Total downloads: 899,502<br>
+Downloads/month: 59,395<br>
+Stars count: 812
 
 It ain't much (and it doesn't mean much either),
 but I'm nonetheless proud to see
