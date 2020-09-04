@@ -12,12 +12,15 @@ You can see [a showcase of my projects on my website][showcase]
 (sorry for the heavy GIFs and SVGs :sweat_smile:),
 as well as [the list of my blog posts][blog].
 
-Here are some [auto-updated][sw-post]
-stats about my published Python projects:
+Here are some [auto-updated][workflow]
+stats about my published projects
+([thanks Simon Willison!][sw-post]):
 
-Total downloads: 946,418<br>
-Downloads/month: 56,320<br>
-Stars count: 843
+<!--marker-->
+Total downloads: 948,365<br>
+Downloads/month: 56,659<br>
+Stars count: 847
+<!--end-->
 
 It ain't much (and it doesn't mean much either),
 but I'm nonetheless proud to see
@@ -30,3 +33,4 @@ on my [support page][support]!
 [showcase]: https://pawamoy.github.io/showcase/
 [blog]: https://pawamoy.github.io/
 [support]: https://github.com/sponsors/pawamoy/
+[workflow]: https://github.com/pawamoy/pawamoy/blob/master/.github/workflows/readme.yml
