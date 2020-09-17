@@ -17,8 +17,8 @@ stats about my published projects
 ([thanks Simon Willison!][sw-post]):
 
 <!--marker-->
-Total downloads: 969,749<br>
-Downloads/month: 57,341<br>
+Total downloads: 973,442<br>
+Downloads/month: 57,595<br>
 Stars count: 864
 <!--end-->
 
