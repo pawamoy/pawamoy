@@ -35,7 +35,7 @@
             <td>
                 <p><strong>mkdocstrings</strong><p>
                 <a href="https://github.com/pawamoy/mkdocstrings">
-                    <img src="https://pawamoy.github.io/assets/mkdocstrings.gif" width="400" height="200" />
+                    <img src="mkdocstrings.png" width="400" height="200" />
                 </a>
             </td>
             <td>
