@@ -1,36 +1,69 @@
-### Hi there 👋
+<h1 align="center"><em>¤ pawamoy</em></h1>
+<p align="center"><em>Timothée Mazzucotelli</em></p>
 
-My name is Timothée Mazzucotelli,
-I learned computer science at a french university,
-and now have a few years of experience in development,
-particularly with Python.
+<p align="center">
+    <a href="https://pawamoy.github.io/about">
+        <img alt="about" src="https://img.shields.io/badge/docs-about-blue.svg?style=flat" />
+    </a>
+    <a href="https://en.wikipedia.org/wiki/DNA">
+        <img alt="language" src="https://img.shields.io/badge/language-ACGT-pink.svg?style=flat" />
+    </a>
+    <a href="https://www.youtube.com/watch?v=6FbYQOIfGAI">
+        <img alt="music" src="https://img.shields.io/badge/music-extreme-black.svg?style=flat" />
+    </a>
+</p>
 
-I really enjoy sharing my code
-and contributing to other projects!
+---
 
-You can see [a showcase of my projects on my website][showcase]
-(sorry for the heavy GIFs and SVGs :sweat_smile:),
-as well as [the list of my blog posts][blog].
+## :heavy_check_mark: Features
 
-Here are some [auto-updated][workflow]
-stats about my published projects
-([thanks Simon Willison!][sw-post]):
+- learned computer science at a french university
+- some years of experience in development, particularly with Python
+- really enjoy sharing code and contributing to other projects
+
+## :factory: Projects
+
+<table>
+    <tbody>
+        <tr>
+            <td>
+                <p><strong>aria2p</strong><p>
+                <a href="https://github.com/pawamoy/aria2p">
+                    <img src="https://pawamoy.github.io/assets/aria2p.gif" width="400" height="200" />
+                </a>
+            </td>
+            <td>
+                <p><strong>mkdocstrings</strong><p>
+                <a href="https://github.com/pawamoy/mkdocstrings">
+                    <img src="https://pawamoy.github.io/assets/mkdocstrings.gif" width="400" height="200" />
+                </a>
+            </td>
+            <td>
+                <p><strong>copier-poetry</strong><p>
+                <a href="https://github.com/pawamoy/copier-poetry">
+                    <img src="https://pawamoy.github.io/assets/copier-poetry.svg" width="400" height="200" />
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<p align="center">
+    <strong>More:
+        <a href="https://pawamoy.github.io/showcase">showcase</a>,
+        <a href="https://github.com/sponsors/pawamoy">sponsors</a>.
+    </strong>
+</p>
+
+### :bar_chart: Stats
 
 <!--marker-->
-Total downloads: 1,101,851<br>
-Downloads/month: 53,004<br>
-Stars count: 948
+- Total downloads: 1,101,851<br>
+- Downloads/month: 53,004<br>
+- Stars count: 948
 <!--end-->
 
-It ain't much (and it doesn't mean much either),
-but I'm nonetheless proud to see
-that what I created is used by others :heart_eyes:
-
-You can see more about what I'm working on
-on my [support page][support]!
-
-[sw-post]: https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/
-[showcase]: https://pawamoy.github.io/showcase/
-[blog]: https://pawamoy.github.io/
-[support]: https://github.com/sponsors/pawamoy/
-[workflow]: https://github.com/pawamoy/pawamoy/blob/master/.github/workflows/readme.yml
+<small><em>Credits to
+<a href="https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/">Simon Willison</a>
+for the automatic updates.
+</em></small>
