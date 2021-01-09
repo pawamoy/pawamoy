@@ -58,9 +58,9 @@
 ### :bar_chart: Stats
 
 <!--marker-->
-- Total downloads: 1,220,277<br>
-- Downloads/month: 73,042<br>
-- Stars count: 1,025
+- Total downloads: 1,223,009<br>
+- Downloads/month: 72,517<br>
+- Stars count: 1,032
 <!--end-->
 
 <small><em>Credits to
