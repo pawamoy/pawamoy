@@ -48,11 +48,11 @@
     </tbody>
 </table>
 
-<h3 align="center">
+<h2 align="center">
     More:
     <a href="https://pawamoy.github.io/showcase">showcase</a>,
     <a href="https://github.com/sponsors/pawamoy">sponsors</a>.
-</h3>
+</h2>
 
 ### :bar_chart: Stats
 
