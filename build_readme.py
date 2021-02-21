@@ -5,14 +5,7 @@ import httpx
 README_TEMPLATE = """
 - Total downloads: {total_dl:,}<br>
 - Downloads/month: {total_dl_per_month:,}<br>
-- Stars count: {total_stars:,}
 """.strip("\n")
-
-GITHUB_ACCOUNTS = [
-    "pawamoy",
-    "shellm-org",
-    "shenv"
-]
 
 PYTHON_PROJECTS = [
     "ansito",
@@ -40,7 +33,6 @@ PYTHON_PROJECTS = [
 ]
 
 PEPYTECH_API_URL = "https://api.pepy.tech/api/projects/"
-GITHUB_API_URL = "https://api.github.com/"
 
 def main():
     total_stars = total_dl = total_dl_per_month = 0
@@ -50,14 +42,9 @@ def main():
             total_dl += data["total_downloads"]
             total_dl_per_month += sum(data["downloads"].values())
 
-        for account in GITHUB_ACCOUNTS:
-            repos = client.get(GITHUB_API_URL + f"users/{account}/repos?per_page=100").json()
-            total_stars += sum(repo["stargazers_count"] for repo in repos)
-
     text = README_TEMPLATE.format(
         total_dl=total_dl,
         total_dl_per_month=total_dl_per_month,
-        total_stars=total_stars,
     )
 
     with open("README.md") as fd:

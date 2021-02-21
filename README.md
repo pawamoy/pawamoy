@@ -48,19 +48,17 @@
     </tbody>
 </table>
 
-<p align="center">
-    <strong>More:
-        <a href="https://pawamoy.github.io/showcase">showcase</a>,
-        <a href="https://github.com/sponsors/pawamoy">sponsors</a>.
-    </strong>
-</p>
+<h3 align="center">
+    More:
+    <a href="https://pawamoy.github.io/showcase">showcase</a>,
+    <a href="https://github.com/sponsors/pawamoy">sponsors</a>.
+</h3>
 
 ### :bar_chart: Stats
 
 <!--marker-->
 - Total downloads: 1,363,394<br>
 - Downloads/month: 117,117<br>
-- Stars count: 789
 <!--end-->
 
 <small><em>Credits to
