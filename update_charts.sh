@@ -10,3 +10,4 @@ echo 'dataTotal.pop();'
 cat chart.js
 echo '</script>'
 rm -f *.json
+/usr/bin/firefox charts.html
