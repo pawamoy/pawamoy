@@ -57,8 +57,8 @@
 ### :bar_chart: Stats
 
 <!--marker-->
-- Total downloads: 1,880,863<br>
-- Downloads/month: 217,698<br>
+- Total downloads: 1,893,977<br>
+- Downloads/month: 217,470<br>
 <!--end-->
 
 <small><em>Credits to
