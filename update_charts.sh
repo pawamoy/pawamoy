@@ -9,5 +9,5 @@ echo 'dataMonth.pop();'
 echo 'dataTotal.pop();'
 cat chart.js
 echo '</script>'
-#rm -f *.json
+rm -f *.json
 /usr/bin/firefox charts.html
