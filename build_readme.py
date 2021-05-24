@@ -11,6 +11,7 @@ PYTHON_PROJECTS = [
     "ansito",
     "archan",
     "aria2p",
+    "copier-templates-extensions",
     "django-app-settings",
     "django-cs-models",
     "django-suit-dashboard",
@@ -20,6 +21,7 @@ PYTHON_PROJECTS = [
     "failprint",
     "git-changelog",
     "keycut",
+    "mkdocs-coverage",
     "mkdocstrings",
     "moving-stars",
     "mvodb",
@@ -30,6 +32,7 @@ PYTHON_PROJECTS = [
     "shellhistory",
     "shellman",
     "unminder",
+    "wps-light",
 ]
 
 PEPYTECH_API_URL = "https://api.pepy.tech/api/projects/"
