@@ -40,8 +40,8 @@
             </td>
             <td>
                 <p><strong>copier-poetry</strong><p>
-                <a href="https://github.com/pawamoy/copier-poetry">
-                    <img src="https://pawamoy.github.io/assets/copier-poetry.svg" width="400" height="200" />
+                <a href="https://github.com/pawamoy/copier-pdm">
+                    <img src="https://pawamoy.github.io/assets/copier-pdm.svg" width="400" height="200" />
                 </a>
             </td>
         </tr>
