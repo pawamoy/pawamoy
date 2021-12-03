@@ -58,7 +58,7 @@
 
 <!--marker-->
 - Total downloads: 4,250,736<br>
-- Downloads/month: 304,150<br>
+- Downloads/month: 278,212<br>
 <!--end-->
 
 <small><em>Credits to
