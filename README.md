@@ -53,15 +53,3 @@
     <a href="https://pawamoy.github.io/showcase">showcase</a>,
     <a href="https://github.com/sponsors/pawamoy">sponsors</a>.
 </h2>
-
-### :bar_chart: Stats
-
-<!--marker-->
-- Total downloads: 20,131,330<br>
-- Downloads/month: 1,834,705<br>
-<!--end-->
-
-<small><em>Credits to
-<a href="https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/">Simon Willison</a>
-for the automatic updates.
-</em></small>
