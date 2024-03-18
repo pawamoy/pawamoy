@@ -39,24 +39,26 @@ or by email at dev@pawamoy.fr 📫 👋🏼
             <td>
                 <p><strong>mkdocstrings</strong><p>
                 <a href="https://github.com/pawamoy/mkdocstrings">
-                    <img src="https://pawamoy.github.io/assets/mkdocstrings.gif" width="400" height="200" />
+                    <img src="mkdocstrings.gif" width="400" height="200" />
                 </a>
             </td>
             <td>
                 <p><strong>copier-uv</strong><p>
                 <a href="https://github.com/pawamoy/copier-uv">
-                    <img src="https://pawamoy.github.io/assets/copier-pdm.svg" width="400" height="200" />
+                    <img src="copier-pdm.svg" width="400" height="200" />
                 </a>
             </td>
             <td>
                 <p><strong>aria2p</strong><p>
                 <a href="https://github.com/pawamoy/aria2p">
-                    <img src="https://pawamoy.github.io/assets/aria2p.gif" width="400" height="200" />
+                    <img src="aria2p.gif" width="400" height="200" />
                 </a>
             </td>
         </tr>
     </tbody>
 </table>
+
+[...and many more.](https://pawamoy.github.io/showcase/)
 
 ## See also
 
