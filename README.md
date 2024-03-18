@@ -1,55 +1,65 @@
-<h1 align="center"><em>¤ pawamoy</em></h1>
-<p align="center"><em>Timothée Mazzucotelli</em></p>
+# pawamoy
 
-<p align="center">
-    <a href="https://pawamoy.github.io/about">
-        <img alt="about" src="https://img.shields.io/badge/docs-about-blue.svg?style=flat" />
-    </a>
-    <a href="https://en.wikipedia.org/wiki/DNA">
-        <img alt="language" src="https://img.shields.io/badge/language-ACGT-pink.svg?style=flat" />
-    </a>
-    <a href="https://www.youtube.com/watch?v=6FbYQOIfGAI">
-        <img alt="music" src="https://img.shields.io/badge/music-extreme-black.svg?style=flat" />
-    </a>
-</p>
+[![about](https://img.shields.io/badge/docs-about-708FCC.svg?style=flat)](https://pawamoy.github.io/about)
+[![language](https://img.shields.io/badge/language-ACGT-white.svg?style=flat)](https://en.wikipedia.org/wiki/DNA)
+[![music](https://img.shields.io/badge/music-breakcore-708FCC.svg?style=flat)](https://www.youtube.com/watch?v=5IzuEw8ZZ1A)
 
----
+## 🪐 Hello world
 
-## :heavy_check_mark: Features
+Hi, I'm Timothée Mazzucotelli.
+I develop open-source software, primarily Python tools and libraries.
+I do this full time: I earn my keep through [sponsorships](https://github.com/sponsors/pawamoy)
+from individual users and companies,
+which is what makes these projects sustainable
+and gives you a chance to use them.
 
-- learned computer science at a french university
-- some years of experience in development, particularly with Python
-- really enjoy sharing code and contributing to other projects
+You can say hello to me on
+[Mastodon](https://fosstodon.org/@pawamoy),
+[X](https://x.com/pawamoy),
+[LinkedIn](https://www.linkedin.com/in/tmazzucotelli/),
+[Matrix](https://matrix.to/#/@pawamoy:matrix.org),
+[Discord](https://discordapp.com/users/393362331494776833),
+[Telegram](https://t.me/pawamoy),
+[Signal](https://signal.me/#eu/NBYY34FhSLL4A54k52+pI2It8qVBQy/pYDQBt+qxNej1IHVuqppNvKURTQuwrTXP),
+or by email at dev@pawamoy.fr 📫 👋🏼
 
-## :factory: Projects
+## 🌱 Features
+
+- 🎓 learned computer science at a french university
+- 🐍 some years of experience in development, particularly with Python
+- 🎠 really enjoy sharing code and contributing to other projects
+- 👔 working full time on open-source projects
+  (following a [sponsorware strategy](https://pawamoy.github.io/insiders))
+
+## 🌲 Projects
 
 <table>
     <tbody>
         <tr>
+            <td>
+                <p><strong>mkdocstrings</strong><p>
+                <a href="https://github.com/pawamoy/mkdocstrings">
+                    <img src="https://pawamoy.github.io/assets/mkdocstrings.gif" width="400" height="200" />
+                </a>
+            </td>
+            <td>
+                <p><strong>copier-uv</strong><p>
+                <a href="https://github.com/pawamoy/copier-uv">
+                    <img src="https://pawamoy.github.io/assets/copier-pdm.svg" width="400" height="200" />
+                </a>
+            </td>
             <td>
                 <p><strong>aria2p</strong><p>
                 <a href="https://github.com/pawamoy/aria2p">
                     <img src="https://pawamoy.github.io/assets/aria2p.gif" width="400" height="200" />
                 </a>
             </td>
-            <td>
-                <p><strong>mkdocstrings</strong><p>
-                <a href="https://github.com/pawamoy/mkdocstrings">
-                    <img src="mkdocstrings.png" width="400" height="200" />
-                </a>
-            </td>
-            <td>
-                <p><strong>copier-pdm</strong><p>
-                <a href="https://github.com/pawamoy/copier-pdm">
-                    <img src="https://pawamoy.github.io/assets/copier-pdm.svg" width="400" height="200" />
-                </a>
-            </td>
         </tr>
     </tbody>
 </table>
 
-<h2 align="center">
-    More:
-    <a href="https://pawamoy.github.io/showcase">showcase</a>,
-    <a href="https://github.com/sponsors/pawamoy">sponsors</a>.
-</h2>
+## See also
+
+Here is some green lemon:
+
+![green lemon](green_lemon.png)
