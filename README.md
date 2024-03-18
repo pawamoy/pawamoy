@@ -33,6 +33,13 @@ or by email at dev@pawamoy.fr 📫 👋🏼
 
 ## 🌲 Projects
 
+<style>
+article img {
+    height: 200px;
+    width: 400px;
+}
+</style>
+
 mkdocstrings | copier-uv | aria2p
 ------------ | --------- | ------
 [![mkdocstrings.gif](mkdocstrings.gif)](https://github.com/pawamoy/mkdocstrings) | [![copier-pdm.svg](copier-pdm.svg)](https://github.com/pawamoy/copier-uv) | [![aria2p.gif](aria2p.gif)](https://github.com/pawamoy/aria2p)
