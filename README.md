@@ -33,35 +33,14 @@ or by email at dev@pawamoy.fr 📫 👋🏼
 
 ## 🌲 Projects
 
-<table>
-    <tbody>
-        <tr>
-            <td>
-                <p><strong>mkdocstrings</strong><p>
-                <a href="https://github.com/pawamoy/mkdocstrings">
-                    <img src="mkdocstrings.gif" width="400" height="200" />
-                </a>
-            </td>
-            <td>
-                <p><strong>copier-uv</strong><p>
-                <a href="https://github.com/pawamoy/copier-uv">
-                    <img src="copier-pdm.svg" width="400" height="200" />
-                </a>
-            </td>
-            <td>
-                <p><strong>aria2p</strong><p>
-                <a href="https://github.com/pawamoy/aria2p">
-                    <img src="aria2p.gif" width="400" height="200" />
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
+mkdocstrings | copier-uv | aria2p
+------------ | --------- | ------
+[![mkdocstrings.gif](mkdocstrings.gif)](https://github.com/pawamoy/mkdocstrings) | [![copier-pdm.svg](copier-pdm.svg)](https://github.com/pawamoy/copier-uv) | [![aria2p.gif](aria2p.gif)](https://github.com/pawamoy/aria2p)
 
-[...and many more.](https://pawamoy.github.io/showcase/)
+[...and many more](https://pawamoy.github.io/showcase/)
 
-## See also
+## 🍋 See also
 
-Here is some green lemon:
+Have some green lemon:
 
 ![green lemon](green_lemon.png)
