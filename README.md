@@ -26,7 +26,7 @@ or by email at dev@pawamoy.fr 📫 👋🏼
 ## 🌱 Features
 
 - 🎓 learned computer science at a french university
-- 🐍 some years of experience in development, particularly with Python
+- 🐍 about 10 years of experience in development, particularly with Python
 - 🎠 really enjoy sharing code and contributing to other projects
 - 👔 working full time on open-source projects
   (following a [sponsorware strategy](https://pawamoy.github.io/insiders))
