@@ -33,19 +33,19 @@ or by email at dev@pawamoy.fr 📫 👋🏼
 
 ## 🌲 Projects
 
-<table>
-<tr><td>
-
-[![mkdocstrings](https://github-readme-stats.vercel.app/api/pin/?username=mkdocstrings&repo=mkdocstrings&show_owner=true&theme=transparent&description_lines_count=10)](https://github.com/mkdocstrings/mkdocstrings)
-[![griffe](https://github-readme-stats.vercel.app/api/pin/?username=mkdocstrings&repo=griffe&show_owner=true&theme=transparent&description_lines_count=10)](https://github.com/mkdocstrings/griffe)
-
-</td><td>
-
-[![aria2p](https://github-readme-stats.vercel.app/api/pin/?username=pawamoy&repo=aria2p&show_owner=true&theme=transparent&description_lines_count=10)](https://github.com/pawamoy/aria2p)
-[![copier-uv](https://github-readme-stats.vercel.app/api/pin/?username=pawamoy&repo=copier-uv&show_owner=true&theme=transparent&description_lines_count=10)](https://github.com/pawamoy/copier-uv)
-
-</td></tr>
-</table>
+Documentation | Developer tools | Shell related
+------------- | --------------- | -------------
+[mkdocstrings](https://github.com/mkdocstrings/mkdocstrings) | [griffe](https://github.com/mkdocstrings/griffe) | [shellman](https://github.com/pawamoy/)
+[mkdocstrings-python](https://github.com/mkdocstrings/python) | [aria2p](https://github.com/pawamoy/aria2p) | [shenv/shenv](https://github.com/shenv/)
+[mkdocstrings-shell](https://github.com/mkdocstrings/shell) | [duty](https://github.com/pawamoy/duty) | [shellm-org/core](https://github.com/shellm-org/)
+[mkdocstrings-typescript](https://github.com/mkdocstrings/typescript) | [failprint](https://github.com/pawamoy/failprint) | [shellm-org/cover](https://github.com/shellm-org/)
+[mkdocs-autorefs](https://github.com/mkdocstrings/autorefs) | [git-changelog](https://github.com/pawamoy/git-changelog) | [shellm-org/daemon](https://github.com/shellm-org/)
+[mkdocs-coverage](https://github.com/pawamoy/coverage) | [copier-uv](https://github.com/pawamoy/copier-uv) | [shellm-org/debug](https://github.com/shellm-org/)
+[mkdocs-manpage](https://github.com/pawamoy/manpage) | [copier-pdm](https://github.com/pawamoy/copier-pdm) | [shellm-org/format](https://github.com/shellm-org/)
+[mkdocs-spellcheck](https://github.com/pawamoy/spellcheck) | [dependenpy](https://github.com/pawamoy/dependenpy) | [shellm-org/loop](https://github.com/shellm-org/)
+[markdown-exec](https://github.com/pawamoy/markdown-exec) | [devboard](https://github.com/pawamoy/devboard) | [shellm-org/profiler](https://github.com/shellm-org/)
+[markdown-pycon](https://github.com/pawamoy/markdown-pycon) | [pypi-insiders](https://github.com/pawamoy/pypi-insiders) | [shellm-org/template](https://github.com/shellm-org/)
+[happy-path](https://github.com/pawamoy/happy-path) | [insiders-project](https://github.com/pawamoy/insiders-project) | [shellm-org/trace](https://github.com/shellm-org/)
 
 ## 🍋 See also
 
