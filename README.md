@@ -33,18 +33,19 @@ or by email at dev@pawamoy.fr 📫 👋🏼
 
 ## 🌲 Projects
 
-<style>
-article img {
-    height: 200px;
-    width: 400px;
-}
-</style>
+<table>
+<tr><td>
 
-mkdocstrings | copier-uv | aria2p
------------- | --------- | ------
-[![mkdocstrings.gif](mkdocstrings.gif)](https://github.com/pawamoy/mkdocstrings) | [![copier-pdm.svg](copier-pdm.svg)](https://github.com/pawamoy/copier-uv) | [![aria2p.gif](aria2p.gif)](https://github.com/pawamoy/aria2p)
+[![mkdocstrings](https://github-readme-stats.vercel.app/api/pin/?username=mkdocstrings&repo=mkdocstrings&show_owner=true&theme=transparent&description_lines_count=10)](https://github.com/mkdocstrings/mkdocstrings)
+[![griffe](https://github-readme-stats.vercel.app/api/pin/?username=mkdocstrings&repo=griffe&show_owner=true&theme=transparent&description_lines_count=10)](https://github.com/mkdocstrings/griffe)
 
-[...and many more](https://pawamoy.github.io/showcase/)
+</td><td>
+
+[![aria2p](https://github-readme-stats.vercel.app/api/pin/?username=pawamoy&repo=aria2p&show_owner=true&theme=transparent&description_lines_count=10)](https://github.com/pawamoy/aria2p)
+[![copier-uv](https://github-readme-stats.vercel.app/api/pin/?username=pawamoy&repo=copier-uv&show_owner=true&theme=transparent&description_lines_count=10)](https://github.com/pawamoy/copier-uv)
+
+</td></tr>
+</table>
 
 ## 🍋 See also
 
