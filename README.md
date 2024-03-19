@@ -33,7 +33,7 @@ or by email at dev@pawamoy.fr 📫 👋🏼
 
 ## 🌲 Projects
 
-📘 Documentation | 🪛 Developer tools | #️⃣ Python/shell tools
+📘 Documentation | 🪛 [Developer] tools | #️⃣ Shell stuff
 ---------------- | ------------------ | --------------------
 [mkdocstrings](https://github.com/mkdocstrings/mkdocstrings) | [griffe](https://github.com/mkdocstrings/griffe) | [shellman](https://github.com/pawamoy/)
 [mkdocstrings-python](https://github.com/mkdocstrings/python) | [aria2p](https://github.com/pawamoy/aria2p) | [shenv/shenv](https://github.com/shenv/)
