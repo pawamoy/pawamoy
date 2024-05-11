@@ -2,7 +2,7 @@
 
 [![about](https://img.shields.io/badge/docs-about-708FCC.svg?style=flat)](https://pawamoy.github.io/about)
 [![language](https://img.shields.io/badge/language-ACGT-white.svg?style=flat)](https://en.wikipedia.org/wiki/DNA)
-[![music](https://img.shields.io/badge/music-breakcore-708FCC.svg?style=flat)](https://www.youtube.com/watch?v=j7Mnr6cFfb4)
+[![music](https://img.shields.io/badge/music-breakcore-708FCC.svg?style=flat)](https://www.youtube.com/watch?v=yU_EpBtqiRk)
 
 ## 🪐 Hello world
 
