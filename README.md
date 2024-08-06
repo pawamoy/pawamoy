@@ -35,8 +35,8 @@ or by email at dev@pawamoy.fr 📫 👋🏼
 
 📘 Documentation | 🪛 [Developer] tools | #️⃣ Shell stuff
 ---------------- | ------------------ | --------------------
-[mkdocstrings](https://github.com/mkdocstrings/mkdocstrings) | [griffe](https://github.com/mkdocstrings/griffe) | [shellman](https://github.com/pawamoy/)
-[mkdocstrings-python](https://github.com/mkdocstrings/python) | [aria2p](https://github.com/pawamoy/aria2p) | [shenv/shenv](https://github.com/shenv/)
+[mkdocstrings](https://github.com/mkdocstrings/mkdocstrings) | [griffe](https://github.com/mkdocstrings/griffe) | [shellman](https://github.com/pawamoy/shellman)
+[mkdocstrings-python](https://github.com/mkdocstrings/python) | [aria2p](https://github.com/pawamoy/aria2p) | [shenv/shenv](https://github.com/shenv/shenv)
 [mkdocstrings-shell](https://github.com/mkdocstrings/shell) [🔒] | [duty](https://github.com/pawamoy/duty) | [shellm-org/core](https://github.com/shellm-org/core)
 [mkdocstrings-typescript](https://github.com/mkdocstrings/typescript) [🔒] | [failprint](https://github.com/pawamoy/failprint) | [shellm-org/cover](https://github.com/shellm-org/cover)
 [mkdocs-autorefs](https://github.com/mkdocstrings/autorefs) | [git-changelog](https://github.com/pawamoy/git-changelog) | [shellm-org/daemon](https://github.com/shellm-org/daemon)
