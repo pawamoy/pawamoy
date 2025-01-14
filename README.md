@@ -41,11 +41,12 @@ or by email at dev@pawamoy.fr 📫 👋🏼
 [mkdocstrings-typescript](https://github.com/mkdocstrings/typescript) [🔒] | [failprint](https://github.com/pawamoy/failprint) | [shellm-org/cover](https://github.com/shellm-org/cover)
 [mkdocs-autorefs](https://github.com/mkdocstrings/autorefs) | [git-changelog](https://github.com/pawamoy/git-changelog) | [shellm-org/daemon](https://github.com/shellm-org/daemon)
 [mkdocs-coverage](https://github.com/pawamoy/mkdocs-coverage) | [copier-uv](https://github.com/pawamoy/copier-uv) | [shellm-org/debug](https://github.com/shellm-org/debug)
-[mkdocs-manpage](https://github.com/pawamoy/mkdocs-manpage) | [copier-pdm](https://github.com/pawamoy/copier-pdm) | [shellm-org/format](https://github.com/shellm-org/format)
-[mkdocs-spellcheck](https://github.com/pawamoy/mkdocs-spellcheck) | [dependenpy](https://github.com/pawamoy/dependenpy) | [shellm-org/loop](https://github.com/shellm-org/loop)
+[mkdocs-llmstxt](https://github.com/pawamoy/mkdocs-llmstxt) | [copier-pdm](https://github.com/pawamoy/copier-pdm) | [shellm-org/format](https://github.com/shellm-org/format)
+[mkdocs-manpage](https://github.com/pawamoy/mkdocs-manpage) | [dependenpy](https://github.com/pawamoy/dependenpy) | [shellm-org/loop](https://github.com/shellm-org/loop)
 [mkdocs-pygments](https://github.com/pawamoy/mkdocs-pygments) [🔒] | [devboard](https://github.com/pawamoy/devboard) [🔒] | [shellm-org/profiler](https://github.com/shellm-org/profiler)
-[markdown-exec](https://github.com/pawamoy/markdown-exec) | [pypi-insiders](https://github.com/pawamoy/pypi-insiders) | [shellm-org/template](https://github.com/shellm-org/template)
-[markdown-pycon](https://github.com/pawamoy/markdown-pycon) | [insiders-project](https://github.com/pawamoy/insiders-project) | [shellm-org/trace](https://github.com/shellm-org/trace)
+[mkdocs-spellcheck](https://github.com/pawamoy/mkdocs-spellcheck) | [pypi-insiders](https://github.com/pawamoy/pypi-insiders) | [shellm-org/template](https://github.com/shellm-org/template)
+[markdown-exec](https://github.com/pawamoy/markdown-exec) | [insiders-project](https://github.com/pawamoy/insiders-project) | [shellm-org/trace](https://github.com/shellm-org/trace)
+[markdown-pycon](https://github.com/pawamoy/markdown-pycon) | |
 [happy-path](https://github.com/pawamoy/happy-path) [🔒] | |
 
 [🔒]: https://pawamoy.github.io/insiders/
