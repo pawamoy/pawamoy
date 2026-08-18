@@ -13,19 +13,14 @@ from individual users and companies,
 which is what makes these projects sustainable
 and gives you a chance to use them.
 
-You can say hello to me on
-[Mastodon](https://fosstodon.org/@pawamoy),
-[X](https://x.com/pawamoy),
-[LinkedIn](https://www.linkedin.com/in/tmazzucotelli/),
-[Matrix](https://matrix.to/#/@pawamoy:matrix.org),
-[Discord](https://discordapp.com/users/393362331494776833),
-[Telegram](https://t.me/pawamoy),
-[Signal](https://signal.me/#eu/NBYY34FhSLL4A54k52+pI2It8qVBQy/pYDQBt+qxNej1IHVuqppNvKURTQuwrTXP),
-or by email at dev@pawamoy.fr 📫 👋🏼
+You can come say hello in
+the [Fediverse](https://fosstodon.org/@pawamoy),
+the [Matrix](https://matrix.to/#/@pawamoy:matrix.org),
+and the [Atmosphere](https://mu.social/profile/pawamoy.eurosky.social) 👋🏼
 
 ## 🌱 Features
 
-- 🎓 learned computer science at a french university
+- 🎓 learned computer science at a French university
 - 🐍 about 10 years of experience in development, particularly with Python
 - 🎠 really enjoy sharing code and contributing to other projects
 - 👔 working on [Zensical](https://zensical.org/) and my open-source projects
