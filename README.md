@@ -16,7 +16,7 @@ and gives you a chance to use them.
 You can come say hello in
 the [Fediverse](https://fosstodon.org/@pawamoy),
 the [Matrix](https://matrix.to/#/@pawamoy:matrix.org),
-and the [Atmosphere](https://mu.social/profile/pawamoy.eurosky.social) 👋🏼
+and the [Atmosphere](https://mu.social/profile/pawamoy.fr) 👋🏼
 
 ## 🌱 Features
 
